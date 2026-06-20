@@ -1,8 +1,7 @@
 ## Hi, I'm Rubix
+I build backend systems, cloud infrastructure, and network dataplanes — from designing async event-driven architectures to benchmarking databases at the cluster level to programming network telemetry in P4. I'm also academically trained in Machine Learning, with hands-on experience in PyTorch and TensorFlow.
 
-I'm an aspiring SRE focused on distributed systems, infrastructure, and systems programming. I build things end-to-end — from designing async event-driven architectures to benchmarking databases at the cluster level to programming network dataplanes in P4.
-
-Currently looking for **Site Reliability Engineer** roles.
+Currently looking for **Backend**, **Cloud/Infrastructure**, or **ML Engineer** roles.
 
 ---
 
@@ -29,9 +28,11 @@ AES-based file encryption and decryption tool built in C++.
 ### Skills
 
 **Languages:** Go · Python · C++ · P4_16
-**Infrastructure:** Docker · Kafka · gRPC · PostgreSQL · Cassandra · BMv2 · Mininet
-**Concepts:** Distributed systems · Event-driven architecture · Performance tuning · Network programmability · Systems programming
+**Backend & Infrastructure:** Docker · Kafka · gRPC · PostgreSQL · Cassandra
+**Cloud & Networking:** BMv2 · Mininet · Network Programmability
+**Machine Learning:** PyTorch · TensorFlow
+**Concepts:** Distributed systems · Event-driven architecture · Performance tuning · Systems programming
 
 ---
 
-*Open to SRE / infrastructure / backend roles. Feel free to reach out.*
+*Open to Backend / Cloud / Networking / ML Engineering roles. Feel free to reach out.*
